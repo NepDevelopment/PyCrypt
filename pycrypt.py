@@ -201,7 +201,7 @@ def main():
         clear_screen()
         print(f"{YELLOW}{LOGO}{RESET}")
         print(f"{YELLOW}{SUB_MENU}{RESET}")
-        sub_choice = input(f"{YELLOW}Enter choice (1/2): {RESET}").strip()
+        sub_choice = input(f"{YELLOW}--> {RESET}").strip()
         if sub_choice not in ['1', '2']:
             print(f"{YELLOW}Invalid choice!{RESET}")
             continue
