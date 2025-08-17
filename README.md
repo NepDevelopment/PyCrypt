@@ -1,2 +1,4 @@
 # PyCrypt
-Python En/Decryptor for your usage, as seen in Pyrate
+<img width="500" height="500" alt="pycrypt" src="https://github.com/user-attachments/assets/0a7b720e-19c1-45b0-95bc-a908b4b972a7" />
+
+`Simple En/De cryptor with password protection, with it's own encryption code to avoid easy decryption without permission`
